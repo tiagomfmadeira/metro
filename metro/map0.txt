@@ -1,0 +1,38 @@
+#########################################
+#                                       #
+#               r                       #
+#               R                       #
+#               r                       #
+#      PpPp     R        gGGgGGgGG      #
+#      P        RrRrR            g      #
+#      p            r            GG     #
+#      P            R             g     #
+#    PPP            r             G     #
+#    P              R             g     #
+#    p              RRR           G     #
+#    P                r           g     #
+#    PpP              R           G     #
+#      PPP            r           g     #
+#        PpP          R           G     #
+#          PPP        r           g     #
+#   b        PpP      RRR         G     #
+#   B          PpP      R       GgG     #
+#   b            P      r     GgG       #
+#   B            p      R     G         #
+#   b            P      r     g         #
+#   B            p      R     G         #
+#   BbB          P      r     g         #
+#     BbB        p      R     G         #
+#       BbB      P      r     g         #
+#         B      P      R     G         #
+#         b      PPP    r     g         #
+#         BB       P    R     G         #
+#          B       p    r   GgG         #
+#          b       P        G           #
+#          BBB     p        g           #
+#            B     P        G           #
+#            b     p        g           #
+#            B                          #
+#            b                          #
+#                                       #
+#########################################
