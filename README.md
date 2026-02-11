@@ -1,15 +1,14 @@
-# Metro Simulation
+<h1 align="center">Metro</h1>
 
-A concurrent object-oriented metro system simulation with animated trains, stations, and passengers moving across a map.
+<p align="center">
+  <img width="600" height="550" alt="sim" src="https://github.com/user-attachments/assets/7ed83db3-bdf3-4a78-909e-271f793e306e" />
+</p>
 
-The simulation models trains circulating on multiple metro lines while passengers buy tickets, wait at stations, board trains, ride to their destination, and exit the system — all visualized in real time on a grid-based map.
+A concurrent object-oriented metro system simulation with animated trains, stations, and passengers moving across a map. 
+The simulation models trains circulating on multiple metro lines while passengers buy tickets, wait at stations, board trains, ride to their destination, and exit the system, all visualized in real time on a grid-based map.
+Everything runs concurrently: trains, passengers, ticket sales, inspections, and movement are all handled by independent threads.
 
 ---
-
-### Running simulation
-<p align="center">
-<img width="600" height="550" alt="sim" src="https://github.com/user-attachments/assets/7ed83db3-bdf3-4a78-909e-271f793e306e" />
-</p>
 
 - Colored tracks represent different metro lines
 - Trains move continuously along each line  
@@ -18,7 +17,7 @@ The simulation models trains circulating on multiple metro lines while passenger
 
 ---
 
-### Train sprites and animation
+## Train sprites and animation
 <p align="center">
 <img width="420" height="550" alt="trains" src="https://github.com/user-attachments/assets/db543a3d-16be-4a32-9d12-5c79f2c570a8" />
 </p>
@@ -28,7 +27,7 @@ Each train follows a closed loop defined by the track layout and animates smooth
 
 ---
 
-### Map layout
+## Map layout
 <p align="center">
 <img width="250" height="340" alt="Map" src="https://github.com/user-attachments/assets/2c055f32-5683-4ff0-83a0-7f96d6d129d7" />
 </p>
@@ -41,10 +40,6 @@ Each character represents a different element of the metro system:
 - Free spaces are walkable areas for passengers  
 
 Because train paths are computed directly from the map, changing the layout automatically updates train movement, station placement, and passenger behavior.
-
----
-
-Everything runs concurrently: trains, passengers, ticket sales, inspections, and movement are all handled by independent threads.
 
 ---
 
